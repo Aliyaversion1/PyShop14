@@ -1,7 +1,7 @@
 from django.db import models
 
 
-#TODO: Categories: samsung(smartphones)
+# TODO: Categories: samsung(smartphones)
 #TODO: Notebooks --> ACER, MacBook, ASUS
 #TODO: Accessories --> Earphones.Powerbank
 #TODO: po 2 producta na kajduyu kategoriu
